@@ -1,4 +1,4 @@
-![cf](https://i.imgur.com/7v5ASc8.png) Lab 26 - Angular Routing
+![cf](https://i.imgur.com/7v5ASc8.png) Lab 27 - Angular Routing
 ======
 
 ## To Submit this Assignment
