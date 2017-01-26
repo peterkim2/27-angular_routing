@@ -19,6 +19,13 @@ function routerConfig($stateProvider, $urlRouterProvider) {
       template: require('../view/signup/signup.html'),
       controller: 'SignupController',
       controllerAs: 'singupCtrl'
+    },
+    {
+      name: 'gallery',
+      url: '/gallery',
+      template: require('../view/gallery/gallery.html'),
+      controller: 'GalleryController',
+      controllerAs: 'galleryCtrl'
     }
   ];
 
